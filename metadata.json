@@ -1,0 +1,6 @@
+{
+  "name": "AI Observability Assistant",
+  "description": "AI-powered observability platform for debugging distributed systems with traces, logs, metrics, AI root-cause analysis, and incident replay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
